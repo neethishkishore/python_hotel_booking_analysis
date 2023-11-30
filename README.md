@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Hotel Booking Analysis with Python</h1>
+<h2 align="center">Hotel Booking Analysis with Python</h2>
 </p>
 
 I spearheaded a comprehensive hotel booking analysis project using Python, where I cleaned and analyzed raw data to extract meaningful insights. The project focused on understanding reservation patterns, cancellation trends, and average daily rates across different hotels.
